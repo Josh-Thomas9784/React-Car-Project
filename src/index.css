@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Sekuya&display=swap');
+@import "tailwindcss";
+
+body{
+    background-color:rgba(2, 6, 23);
+    color: white;
+}
+
+h1, h2{
+    font-family: Sekuya;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
