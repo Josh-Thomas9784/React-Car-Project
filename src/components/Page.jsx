@@ -1,4 +1,5 @@
 import car from "../assets/car.jpg";
+import car3 from "../assets/car2.jpg"
 import { Link } from "react-router-dom";
 
 export default function Page() {

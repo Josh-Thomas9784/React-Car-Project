@@ -20,7 +20,7 @@ export default function Hero() {
 
       {/* Text Content */}
       <div className="relative flex h-full flex-col items-center justify-center text-center text-white px-6">
-        <h1 className=" text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold tracking-wider uppercase z-4 absolute mb-70">
+        <h1 className=" text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold tracking-wider uppercase z-4 absolute mb-80">
           Find the Car
         </h1>
 
