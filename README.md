@@ -58,30 +58,12 @@ I learned how to:
 
 Using Git allowed me to better organize my work and understand the importance of version control in professional software development.
 
-## Moving Beyond HTML/CSS
-
-One of the biggest takeaways from this project was moving beyond traditional HTML and CSS development.
-
-Instead of creating separate static pages, React allowed me to:
-- Build reusable components
-- Create interactive features
-- Manage application state
-- Update the UI based on user actions
-
 Dream Garage helped me understand the foundations of modern frontend development and gave me experience with tools and workflows used in real-world software projects.
 
-## Future Improvements
-
-- Add user authentication
-- Store garages using a database
-- Add more detailed vehicle specifications
-- Allow users to compare cars
-- Add filtering and sorting options
-- Improve recommendations based on user preferences
 
 ## Live Demo
 
-(Add your Vercel link here)
+https://react-car-project-iota.vercel.app/
 
 ## Author
 
